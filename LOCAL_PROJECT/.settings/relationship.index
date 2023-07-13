@@ -1,0 +1,44 @@
+[ {
+  "baseItem" : {
+    "id" : "_9YpsABvuEe6LuIgk1uExJQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_BfYrUBwEEe67bflISSq9cQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_UPc4EBwEEe67bflISSq9cQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_BfYrUBwEEe67bflISSq9cQ - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_BfYrUBwEEe67bflISSq9cQ - product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_BfYrUBwEEe67bflISSq9cQ - sales_order",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_BfYrUBwEEe67bflISSq9cQ - status_order",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_UPc4EBwEEe67bflISSq9cQ - DimProduct",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_UPc4EBwEEe67bflISSq9cQ - DimStatusOrder",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_UPc4EBwEEe67bflISSq9cQ - FactSalesOrder",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
